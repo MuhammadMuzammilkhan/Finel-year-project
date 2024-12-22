@@ -1,1 +1,16 @@
-The Solmate Footwear App is a comprehensive mobile application designed to enhance the sneaker shopping experience with innovative features and user-centric functionality. The app includes a detailed product catalog,  size finder that uses a camera to predict shoe sizes, and a streamlined shopping cart with a secure checkout process. Users can stay updated with a sneaker release calendar, save their favorite products using wishlist management, and locate nearby stores with the store locator feature. The app also provides instant customer support to address user queries effectively. Powered by MongoDB for robust database management and Firebase for secure authentication, Solmate aims to simplify sneaker shopping and deliver a seamless, engaging experience to its users.
+# solmate
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
